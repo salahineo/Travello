@@ -191,6 +191,10 @@ header .headings form input {
   width: 85%;
 }
 
+header .headings form input:focus {
+  outline: none;
+}
+
 header .headings form button {
   border: none;
   border-radius: 30px;
