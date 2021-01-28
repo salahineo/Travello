@@ -50,7 +50,7 @@ Here is the demo of this [project](https://salahineo.github.io/Travello/)
 ### Copyright and license
 
 - **[GPLv3](https://www.gnu.org/licenses/gpl-3.0)**
-- **© 2020 | Mohamed Salah**
+- **© 2021 | Mohamed Salah**
 
 ---
 
